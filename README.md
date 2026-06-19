@@ -1,2 +1,2 @@
-# Generatia-ZERO
+# Generatiazero
 Generatia ZERO
